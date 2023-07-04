@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Urveesh-28/Urveesh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**Urveesh-28/Urveesh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some ideas to get you started:-->
+
+- 🔭 I’m a B.Tech student
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on front-end projects
+- 📫 How to reach me: https://www.linkedin.com/in/urveesh-mathur-7a3439251/ 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If you google recursion and click on the recursion , then you get the implementation of recursion 
+
+
+
