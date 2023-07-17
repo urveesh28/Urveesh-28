@@ -1,4 +1,5 @@
-Hi there 👋
+# _**Hi there 😄**_
+
 
 
 <!--**Urveesh-28/Urveesh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +12,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: https://www.linkedin.com/in/urveesh-mathur-7a3439251/ <br><hr>
 - ⚡ Fun fact: If you google recursion and click on the recursion , then you get the implementation of recursion<br><hr>
 </section>
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
